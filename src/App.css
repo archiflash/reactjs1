@@ -1,0 +1,57 @@
+.App {
+  font-size: 13px;
+  font-family: Verdana;
+  margin: 30px;
+}
+input {
+  width: 146px;
+}
+Button {
+  margin-left: 20px;
+}
+.header div {
+  background-color: #aaa;
+}
+.border {
+  display: inline-block;
+  border: 1px solid #000;
+  vertical-align: top;
+  width: 150px;
+  padding: 5px 3px 0px 3px;
+  height: 25px;
+}
+.hborder {
+  display: inline-block;
+  border: 1px solid #000;
+  width: 150px;
+  padding: 3px;
+}
+.gray {
+  background-color: #cacaca;
+}
+.space {
+  height: 10px;
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.age {
+  margin: 10px;
+}
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
